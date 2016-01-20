@@ -1,0 +1,53 @@
+{
+  "success": "true",
+  "data": {
+    "subscribeIncome": 784,
+    "accumulatedIncome": 1477,
+    "availableBalance": 588,
+    "subscribeInfo": [
+      {
+        "goodsName": "test",
+        "dividendsNum": "4SPLOAGJ",
+        "goodsIco": "http://b.zol-img.com.cn/sjbizhi/images/8/208x312/1440662398973.jpeg",
+        "subscribeIncome": 88,
+        "goodsId": "55c4805bd4c6d705c2c35fd1"
+      },
+      {
+        "goodsName": "test",
+        "dividendsNum": "4SMLJAYJ",
+        "goodsIco": "http://b.zol-img.com.cn/sjbizhi/images/8/208x312/1440056492987.jpeg",
+        "subscribeIncome": 49,
+        "goodsId": "55c4805bd4c6d705c2c35fd1"
+      },
+      {
+        "goodsName": "test",
+        "dividendsNum": "4SKWLMYJ",
+        "goodsIco": "http://b.zol-img.com.cn/sjbizhi/images/8/208x312/1439964824658.jpeg",
+        "subscribeIncome": 36,
+        "goodsId": "55c4805bd4c6d705c2c35fd1"
+      },
+      {
+        "goodsName": "test",
+        "dividendsNum": "4SKTRQQD",
+        "goodsIco": "http://b.zol-img.com.cn/sjbizhi/images/8/208x312/1439535196715.jpg",
+        "subscribeIncome": 43,
+        "goodsId": "55c4805bd4c6d705c2c35fd1"
+      },
+      {
+        "goodsName": "test",
+        "dividendsNum": "4SKTRAXZ",
+        "goodsIco": "http://b.zol-img.com.cn/sjbizhi/images/8/208x312/1439878673685.jpeg",
+        "subscribeIncome": 87,
+        "goodsId": "55c4805bd4c6d705c2c35fd1"
+      },
+      {
+        "goodsName": "test",
+        "dividendsNum": "4SASDDWX",
+        "goodsIco": "http://b.zol-img.com.cn/sjbizhi/images/8/208x312/1439882378675.jpg",
+        "subscribeIncome": 148,
+        "goodsId": "55c4805bd4c6d705c2c35fd1"
+      }
+    ]
+  }
+}
+
